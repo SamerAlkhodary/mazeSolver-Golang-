@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a07fc53-9d2f-41ac-803d-7bfefd875df7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/Gopkg.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/Gopkg.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/algorithm/MarriageFixer.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/asyncParser/workerReader.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/model/man.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/model/woman.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/parser/fileReader.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/stabeMarriage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/containers/containers.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/containers/containers_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/containers/enumerable.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/containers/iterator.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/containers/serialization.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/examples/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/examples/arraylist/arraylist.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/examples/arraystack/arraystack.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/examples/avltree/avltree.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/examples/binaryheap/binaryheap.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/examples/btree/btree.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/examples/customcomparator/customcomparator.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/examples/doublylinkedlist/doublylinkedlist.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/examples/enumerablewithindex/enumerablewithindex.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/examples/enumerablewithkey/enumerablewithkey.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/examples/hashbidimap/hashbidimap.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/examples/hashmap/hashmap.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/examples/hashset/hashset.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/examples/iteratorwithindex/iteratorwithindex.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/examples/iteratorwithkey/iteratorwithkey.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/examples/linkedhashmap/linkedhashmap.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/examples/linkedhashset/linkedhashset.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/examples/linkedliststack/linkedliststack.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/examples/redblacktree/redblacktree.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/examples/redblacktreeextended/redblacktreeextended.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/examples/serialization/serialization.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/examples/singlylinkedlist/singlylinkedlist.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/examples/sort/sort.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/examples/treebidimap/treebidimap.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/examples/treemap/treemap.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/examples/treeset/treeset.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/lists/arraylist/arraylist.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/lists/arraylist/arraylist_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/lists/arraylist/enumerable.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/lists/arraylist/iterator.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/lists/arraylist/serialization.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/lists/doublylinkedlist/doublylinkedlist.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/lists/doublylinkedlist/doublylinkedlist_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/lists/doublylinkedlist/enumerable.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/lists/doublylinkedlist/iterator.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/lists/doublylinkedlist/serialization.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/lists/lists.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/lists/singlylinkedlist/enumerable.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/lists/singlylinkedlist/iterator.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/lists/singlylinkedlist/serialization.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/lists/singlylinkedlist/singlylinkedlist.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/lists/singlylinkedlist/singlylinkedlist_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/maps/hashbidimap/hashbidimap.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/maps/hashbidimap/hashbidimap_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/maps/hashbidimap/serialization.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/maps/hashmap/hashmap.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/maps/hashmap/hashmap_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/maps/hashmap/serialization.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/maps/linkedhashmap/enumerable.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/maps/linkedhashmap/iterator.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/maps/linkedhashmap/linkedhashmap.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/maps/linkedhashmap/linkedhashmap_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/maps/linkedhashmap/serialization.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/maps/maps.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/maps/treebidimap/enumerable.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/maps/treebidimap/iterator.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/maps/treebidimap/serialization.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/maps/treebidimap/treebidimap.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/maps/treebidimap/treebidimap_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/maps/treemap/enumerable.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/maps/treemap/iterator.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/maps/treemap/serialization.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/maps/treemap/treemap.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/maps/treemap/treemap_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/sets/hashset/hashset.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/sets/hashset/hashset_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/sets/hashset/serialization.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/sets/linkedhashset/enumerable.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/sets/linkedhashset/iterator.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/sets/linkedhashset/linkedhashset.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/sets/linkedhashset/linkedhashset_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/sets/linkedhashset/serialization.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/sets/sets.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/sets/treeset/enumerable.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/sets/treeset/iterator.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/sets/treeset/serialization.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/sets/treeset/treeset.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/sets/treeset/treeset_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/stacks/arraystack/arraystack.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/stacks/arraystack/arraystack_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/stacks/arraystack/iterator.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/stacks/arraystack/serialization.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/stacks/linkedliststack/iterator.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/stacks/linkedliststack/linkedliststack.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/stacks/linkedliststack/linkedliststack_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/stacks/linkedliststack/serialization.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/stacks/stacks.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/trees/avltree/avltree.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/trees/avltree/avltree_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/trees/avltree/iterator.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/trees/avltree/serialization.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/trees/binaryheap/binaryheap.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/trees/binaryheap/binaryheap_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/trees/binaryheap/iterator.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/trees/binaryheap/serialization.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/trees/btree/btree.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/trees/btree/btree_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/trees/btree/iterator.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/trees/btree/serialization.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/trees/redblacktree/iterator.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/trees/redblacktree/redblacktree.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/trees/redblacktree/redblacktree_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/trees/redblacktree/serialization.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/trees/trees.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/utils/comparator.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/utils/comparator_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/utils/sort.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/utils/sort_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/utils/utils.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stabeMarriage/vendor/github.com/emirpasic/gods/utils/utils_test.go" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="GOROOT" path="/snap/go/current" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="81" />
+    <option name="y" value="27" />
+    <option name="width" value="920" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mazeSolver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mazeSolver" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build mazeSolver" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="mazeSolver" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/" />
+      <package value="algorithms/greedy/mazeSolver" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="81" y="27" width="1839" height="1053" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986057" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="JSON Viewer" />
+      <window_info anchor="right" id="Json Parser" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
