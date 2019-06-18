@@ -8,7 +8,7 @@
 # Usages
 
   1. go build
-  2. ./ [binayName] inputFile.png outputFile.png
+  2. ./ [binayName] [inputFile.png] [outputFile.png]
 
 # Input data 
 
