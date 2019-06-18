@@ -5,12 +5,12 @@
   this Program uses Dijkstra algorithm to find the shortest way through a maze 
  
 # Usages
-  go build
-  ./ [binayName] inputFile.png outputFile.png
+  go build.
+  ./ [binayName] inputFile.png outputFile.png.
 
 # Input data 
   the program can solve mazes that follow set of rules:
-    ##1- maze wall color is black
-    ##2- maze is surrounded by walls
-    ##3- it has an oppening from the top and the exist is oppening at bottom 
+    1- The maze walls color is black
+    2- The maze is surrounded by walls
+    3- The maze has an oppening at the top which serves as gate to the maze  and an oppening at bottom that serves as the exit 
   
