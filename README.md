@@ -10,7 +10,7 @@
 
 # Input data 
   the program can solve mazes that follow set of rules:
-    1- maze wall color is black
-    2- maze is surrounded by walls
-    3- it has an oppening from the top and the exist is oppening at bottom 
+    ##1- maze wall color is black
+    ##2- maze is surrounded by walls
+    ##3- it has an oppening from the top and the exist is oppening at bottom 
   
